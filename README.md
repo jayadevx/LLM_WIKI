@@ -1,6 +1,6 @@
 # LLM Wiki
 
-A file-based wiki application powered by Claude AI, designed for knowledge management and documentation with AI-assisted content creation and exploration.
+A file-based wiki application powered by Claude AI, designed for knowledge management and documentation with AI-assisted content creation and exploration. Inspired from https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f
 
 ## Overview
 
@@ -117,7 +117,3 @@ Contributions are welcome! Please feel free to submit issues or pull requests.
 ## License
 
 MIT License - feel free to use this project for your own purposes.
-
-## Acknowledgments
-
-Built with [Claude Code](https://claude.com/claude-code) by Anthropic.
